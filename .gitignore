@@ -14,7 +14,3 @@ Thumbs.db
 # Ignore large data files (optional)
 user_transactions.json
 
-# Ignore generated files (optional)
-wallet_features.csv
-wallet_scores.csv
-score_distribution.png
