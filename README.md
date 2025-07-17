@@ -1,4 +1,4 @@
-# Zeru Credit Score
+# Zeru Credit Score Analysis
 
 This repository is part of the Zeru AI Engineer Internship Assignment. The aim is to create a machine learning-driven system that assesses the creditworthiness of wallets (scored from 0 to 1000) using raw DeFi transaction data from the Aave V2 protocol.
 
